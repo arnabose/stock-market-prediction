@@ -152,25 +152,25 @@ This project helped strengthen my understanding of:
 
 ### Dataset Preview
 
-![Dataset Preview](screenshots/dataset-preview.jpeg)
+![Dataset Preview](Screenshots/dataset-preview.jpeg)
 
 ---
 
 ### Stock Price Trend
 
-![Stock Price Trend](screenshots/stock-price-trend.png)
+![Stock Price Trend](Screenshots/stock-price-trend.png)
 
 ---
 
 ### Actual vs Predicted
 
-![Actual vs Predicted](screenshots/actual-vs-predicted.png)
+![Actual vs Predicted](Screenshots/actual-vs-predicted.png)
 
 ---
 
 ### Model Performance
 
-![Model Performance](screenshots/model-comparison.png)
+![Model Performance](Screenshots/model-comparison.png)
 
 ---
 
