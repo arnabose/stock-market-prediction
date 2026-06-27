@@ -148,6 +148,31 @@ This project helped strengthen my understanding of:
 * Predictive Analytics
 
 ---
+## 📷 Screenshots
+
+### Dataset Preview
+
+![Dataset Preview](screenshots/dataset-preview.jpeg)
+
+---
+
+### Stock Price Trend
+
+![Stock Price Trend](screenshots/stock-price-trend.png)
+
+---
+
+### Actual vs Predicted
+
+![Actual vs Predicted](screenshots/actual-vs-predicted.png)
+
+---
+
+### Model Performance
+
+![Model Performance](screenshots/model-comparison.png)
+
+---
 
 ## Future Improvements
 
